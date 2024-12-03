@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 console.log()
 =======
 console.log()
